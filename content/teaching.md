@@ -4,7 +4,7 @@ draft = false
 title = 'Teaching'
 +++
 
-A list of courses I have taught or assisted with.
+👩🏻‍🏫 A list of courses I have taught or assisted with.
 
 **PUBPOL825** *Health Policy* <br>
 Level: Graduate | Term: 2026 Fall <br>

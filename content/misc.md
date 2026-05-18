@@ -4,4 +4,4 @@ draft = false
 title = 'Misc'
 +++
 
-Fun facts coming soon!
+Slowly collecting thoughts, ideas, and fun facts here...٩( ᐛ )( ᐖ )۶ 
