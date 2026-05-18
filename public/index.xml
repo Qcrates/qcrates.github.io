@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuyi Qiu</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Shuyi Qiu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://example.org/cv/</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/cv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://example.org/syQiu_cv_May2026.pdf&#34;&gt;Curriculum Vitae (Updated May 2026)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;width: 950px; margin-left: auto; margin-right: auto; display: block;&#34;&gt;&#xA;  &lt;iframe &#xA;    src=&#34;https://example.org/syQiu_cv_May2026.pdf&#34; &#xA;    width=&#34;100%&#34; &#xA;    height=&#34;900px&#34;&#xA;    style=&#34;border: none;&#34;&gt;&#xA;  &lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://example.org/posts/first-post/</link>
+      <pubDate>Wed, 18 Mar 2026 19:43:49 -0400</pubDate>
+      <guid>https://example.org/posts/first-post/</guid>
+      <description>&lt;p&gt;test test!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>https://example.org/misc/</link>
+      <pubDate>Wed, 18 Mar 2026 19:43:43 -0400</pubDate>
+      <guid>https://example.org/misc/</guid>
+      <description>&lt;p&gt;Fun facts coming soon!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://example.org/teaching/</link>
+      <pubDate>Wed, 18 Mar 2026 19:43:32 -0400</pubDate>
+      <guid>https://example.org/teaching/</guid>
+      <description>&lt;p&gt;A list of courses I have taught or assisted with.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;PUBPOL825&lt;/strong&gt; &lt;em&gt;Health Policy&lt;/em&gt; &lt;br&gt;&#xA;Level: Graduate | Term: 2026 Fall &lt;br&gt;&#xA;Role: Teaching assistant &lt;br&gt;&#xA;Instructor: Kate Bundolf &lt;br&gt;&#xA;Institution: Sanford School of Public Policy, Duke University &lt;br&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;PUBPOL812&lt;/strong&gt; &lt;em&gt;Statistics for Public Policy Makers&lt;/em&gt; &lt;br&gt;&#xA;Level: Graduate | Term: 2024 Fall &lt;br&gt;&#xA;Role: Teaching assistant leading weekly lab sessions, code available &lt;a href=&#34;https://duke.box.com/s/utmkw72khyv3v140mavn0n1cfqs3hqvf&#34;&gt;here&lt;/a&gt;. &lt;br&gt;&#xA;Instructor: Marcos Rangel &lt;br&gt;&#xA;Institution: Sanford School of Public Policy, Duke University &lt;br&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;PUBPOL304&lt;/strong&gt; &lt;em&gt;Economics of The Public Sector&lt;/em&gt; &lt;br&gt;&#xA;Level: Undergrad | Term: 2022 Fall &lt;br&gt;&#xA;Role: Teaching assistant &lt;br&gt;&#xA;Instructor: Sara A. Sutherland &lt;br&gt;&#xA;Institution: Sanford School of Public Policy, Duke University &lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://example.org/research/</link>
+      <pubDate>Wed, 18 Mar 2026 19:43:26 -0400</pubDate>
+      <guid>https://example.org/research/</guid>
+      <description>&lt;p&gt;A map of the main strands of my research work.&lt;/p&gt;&#xA;&lt;h1 id=&#34;wealth-trajectories&#34;&gt;Wealth Trajectories&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;→ &lt;strong&gt;Qiu Shuyi&lt;/strong&gt;. “The Long Arm of Childhood on Trajectory of Wealth Accumulation and Allocation Patterns in Early and Middle Adulthood” (Under review)&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;→ &lt;strong&gt;Qiu Shuyi&lt;/strong&gt;. “The Long-term Impact of the Earned Income Tax Credit (EITC) Exposure in Childhood on Individual’s Wealth Trajectory in Adulthood” (Manuscripts Available Upon Request)&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;→ Keister, Lisa A., James Moody, &lt;strong&gt;Shuyi Qiu&lt;/strong&gt;. (2026). “Rethinking Financial Status: A Comprehensive Case-Based Approach” Social Currents Forthcoming &lt;a href=&#34;https://doi.org/10.1177/23294965261431768&#34;&gt;[DOI]&lt;/a&gt; &lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/23294965261431768&#34;&gt;[PrePrint]&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

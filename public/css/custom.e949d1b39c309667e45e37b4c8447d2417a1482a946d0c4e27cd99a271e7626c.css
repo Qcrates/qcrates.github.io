@@ -1,0 +1,18 @@
+.post-content {
+  width: 782px;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.post-content .body {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.post-content img {
+  max-width: 250px;
+}
+
+body {
+  background: pink;
+}

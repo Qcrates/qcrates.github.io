@@ -1,0 +1,65 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Shuyi Qiu'
+theme = 'archie'
+
+[params]
+	mode="toggle"
+	useCDN=false
+	subtitle = "PhD Candidate in Public Policy and Sociology at [Duke University](https://scholars.duke.edu/person/shuyi.qiu)"
+  customcss = ['css/custom.css']
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/Qcrates"
+
+[[params.social]]
+  name = "Google Scholar"
+  icon = "book-open"
+  url = "https://scholar.google.com/citations?user=UXMKdLcAAAAJ&hl=en-us"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://www.linkedin.com/in/shuyi-qiu-968742155/"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://x.com/ShuyiQio"
+
+[[params.social]]
+  name = "Email"
+  icon = "mail"
+  url = "mailto:sq34@duke.edu"
+
+[[menu.main]]
+  name = "Research"
+  url = "/research"
+  weight = 1
+
+[[menu.main]]
+  name = "Teaching"
+  url = "/teaching"
+  weight = 2
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv"
+  weight = 3
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts"
+  weight = 4
+
+[[menu.main]]
+  name = "Misc"
+  url = "/misc"
+  weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
