@@ -7,6 +7,10 @@ showDate = false
 
 🔬 A map of the main strands of my research work.
 
+<br>
+
+-----
+
 # Wealth Trajectories 📍 
 
 <br>
@@ -35,6 +39,11 @@ showDate = false
 
 > → Gibson-Davis, Christina M., Lisa A. Keister, Lisa A. Gennetian, and **Shuyi Qiu**. (2026). “Net Worth Poverty in Childhood: How Duration and Timing Affect Educational Outcomes.” Demography Forthcoming [[DOI]](https://doi.org/10.1215/00703370-12563780)
 
+<br>
+
+-----
+
+
 
 # Place-based Wealth Inequality 📍 
 
@@ -62,6 +71,9 @@ showDate = false
 
 > → Gibson-Davis, Christina M., **Shuyi Qiu**. “Unequal Grounds: How Place-Based Inequality Affect Subjective Well-Being” (Invited Contribution to RSF: The Russell Sage Foundation Journal of the Social Sciences) <br>
 
+<br>
+
+-----
 
 # Contextualizing Health Inequality 📍 
 
@@ -76,6 +88,8 @@ showDate = false
 > → **Qiu, Shuyi**, Xiaofang Chen, Xiaofang Chen, Guojin Luo, Yu Guo, Zheng Bian, Liming Li, Zhengming Chen, Xianping Wu, and John S. Ji. (2021). “Solid Fuel Use, Socioeconomic Indicators and Risk of Cardiovascular Diseases and All-Cause Mortality: A Prospective Cohort Study in a Rural Area of Sichuan, China.” International Journal of Epidemiology 51(2):501–13. [[DOI]](https://doi.org/10.1093/ije/dyab191)
 
 <br>
+
+-----
 
 # Open-Source Tools for Data Processing 📍 
 
