@@ -1,6 +1,6 @@
 +++
 draft = false
-date = '2026-05-17'
+date = '2026-05-27'
 title = 'CV'
 +++
 
