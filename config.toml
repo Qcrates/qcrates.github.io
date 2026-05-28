@@ -3,11 +3,13 @@ locale = 'en-us'
 title = 'Shuyi Qiu'
 theme = 'archie'
 
+
 [params]
 	mode="toggle"
 	useCDN=false
 	subtitle = "PhD Candidate in Public Policy and Sociology at [Duke University](https://scholars.duke.edu/person/shuyi.qiu)"
   customcss = ['css/custom.css']
+  favicon = "/logo.png"
 
 [[params.social]]
 name = "GitHub"
